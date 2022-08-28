@@ -50,11 +50,11 @@
             />
             <TextView
                 style="@style/ActionButton"
-                android:text="("
+                android:text="CL"
                 />
             <TextView
                 style="@style/ActionButton"
-                android:text=")"
+                android:text="( )"
                 />
             <TextView
                 style="@style/ActionButton"
